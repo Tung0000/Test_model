@@ -1,0 +1,12 @@
+names:
+- drone
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: drone-fm51j
+  url: https://universe.roboflow.com/test-gaiza/drone-fm51j/dataset/2
+  version: 2
+  workspace: test-gaiza
+test: ../test/images
+train: ../train/images
+val: ../valid/images
